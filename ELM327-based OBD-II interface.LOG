@@ -1,0 +1,62 @@
+Importer Log Report
+Project : ELM327-based OBD-II interface.PrjPcb
+
+Section : Analyze Document - C:\Users\Bimbo\Downloads\ELM327-based OBD-II interface.sch
+    Analyzing data of C:\Users\Bimbo\Downloads\ELM327-based OBD-II interface.sch
+    Load settings
+    Load layers 106
+    Load schematic
+    Load Libraries 12
+    Load Library "J1962"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "diode"
+    Load Packages 5
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "Capacitor"
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Microchip MCP2561"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ON Semiconductor LP2950, LP2951, NCV2951"
+    Load Packages 5
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "HEADERS"
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "Resistor"
+    Load Packages 5
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Elm Electronics"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Transistor"
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "crystal"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "fuse"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 107
+    Load Sheets 1
+EndSection
