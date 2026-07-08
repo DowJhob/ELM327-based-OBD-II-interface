@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=ELM327.MbsDoc|Kind=Multi-board Schematic Module|Designator=Bottom board|Source=Bottom board\BottomBoard.PrjPcb
+Record=SubProject|SourceDocument=ELM327.MbsDoc|ProjectPath=Bottom board\BottomBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ELM327.MbsDoc|Kind=Multi-board Schematic Module|Designator=Connector board|Source=Connector board\ConnectorBoard.PrjPcb
+Record=SubProject|SourceDocument=ELM327.MbsDoc|ProjectPath=Connector board\ConnectorBoard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=ELM327.MbsDoc|Kind=Multi-board Schematic Module|Designator=Middle board|Source=Middle board\Middle board.PrjPcb
+Record=SubProject|SourceDocument=ELM327.MbsDoc|ProjectPath=Middle board\Middle board.PrjPcb
